@@ -8,7 +8,7 @@
 | Show HN: HobbyLM-Embed, a from-scratch embedding model that runs locally | https://huggingface.co | `prajhan1` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: AstraviX Studio – Local-first modular workspace and canvas in IndexedDB | https://studio.astravix.xyz | `aayan786236` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: GymType, five-minute Python drills to stay sharp | https://gymtype.dev | `elisharobinson` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: Edvo – Free MDCAT prep for Pakistani med school applicants, no signup | https://edvo.io | `ahgamerz215` | **65/100** | ❌ | ✅ | Missing /llms.txt |
+| Show HN: Edvo – Free MDCAT prep for Pakistani med school applicants, no signup | https://edvo.io | `ahgamerz215` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: WebLidar, every website you run, graded | https://weblidar.com | `salvadormrf` | **60/100** | ✅ | ❌ | Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: willFlock : find a time for a group across time zones, no sign-up | https://willflock.com | `tealvibe` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 | Show HN: Anthropic and OpenAI Math Tracker | https://bedolpab.github.io | `bedolpablo` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |

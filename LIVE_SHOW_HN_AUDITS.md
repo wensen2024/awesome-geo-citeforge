@@ -5,6 +5,7 @@
 
 | Startup / Launch Title | Domain | Founder (HN) | GEO Score | /llms.txt | JSON-LD | Missing AI Search Signals |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Show HN: Olumino, a Markdown notes and spaced repetition app | https://olumino.app | `Wiyseful` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: LEIE Check – Search the OIG health care exclusion list by name or NPI | https://leiecheck.com | `j1mmyhackett` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: Just Dashboard, open-source Linux full management dashboard | https://just-dashboard.com | `Wayy10` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Comparison of Podcasting 2.0 players with Digilore | https://digilore.org | `logn` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
@@ -14,7 +15,6 @@
 | Show HN: Sleigh Draw – an animated Secret Santa draw, no sign-up, no peeking | https://sleighdraw.com | `mhosseini` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 | Show HN: PortalGate – Zero-leakage client portals for monday.com | https://portalgate-landing.vercel.app | `kannsky` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
 | Show HN: Sidelong – read-it-later and highlighting for every type of content | https://sidelong.app | `bodhigephardt` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: A never-ending programming contest for chess and shogi engines | https://tinyai.run | `tinyairun` | **100/100** | ✅ | ✅ | Passed |
 
 ---
 ## 🛠️ Instant Fix Pack for Founders

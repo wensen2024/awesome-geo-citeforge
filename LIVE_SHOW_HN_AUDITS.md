@@ -5,6 +5,9 @@
 
 | Startup / Launch Title | Domain | Founder (HN) | GEO Score | /llms.txt | JSON-LD | Missing AI Search Signals |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Show HN: HookArmor – Self-hosted webhook queue that defeats 300s replay expiry | https://hookarmour.dev | `pkdoddamani` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
+| Show HN: An insanely cool-looking app on iPhone Duo | https://apps.apple.com | `lucakk` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
+| Show HN: Fattura – Parse credit card PDF statements and split family bills | https://www.usefattura.com.br | `jonathasgouv` | **65/100** | ❌ | ✅ | Missing /llms.txt |
 | Show HN: Talira – Search engine for software, built for AI agents | https://talira.ai | `nathan_f77` | **60/100** | ✅ | ❌ | Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Olumino, a Markdown notes and spaced repetition app | https://olumino.app | `Wiyseful` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: LEIE Check – Search the OIG health care exclusion list by name or NPI | https://leiecheck.com | `j1mmyhackett` | **100/100** | ✅ | ✅ | Passed |
@@ -12,9 +15,6 @@
 | Show HN: Comparison of Podcasting 2.0 players with Digilore | https://digilore.org | `logn` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 | Show HN: Run your own Hacker News on Hatamoto (open-source, one binary) | https://news.hatamoto.dev | `zenincognito` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
 | Show HN: A daily word puzzle where an AI gives the clue and you guess | https://wordspies.com | `hardicecream` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
-| Show HN: Toad in the hole - Grokbot for Voice | https://toadinthehole.app | `tn_` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: Sleigh Draw – an animated Secret Santa draw, no sign-up, no peeking | https://sleighdraw.com | `mhosseini` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
-| Show HN: PortalGate – Zero-leakage client portals for monday.com | https://portalgate-landing.vercel.app | `kannsky` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
 
 ---
 ## 🛠️ Instant Fix Pack for Founders

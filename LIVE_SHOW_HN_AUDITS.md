@@ -5,16 +5,16 @@
 
 | Startup / Launch Title | Domain | Founder (HN) | GEO Score | /llms.txt | JSON-LD | Missing AI Search Signals |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Show HN: RebillKit – BYOK failed-payment recovery for Stripe (0% rev share) | https://rebillkit.com | `dimoncelli` | **60/100** | ✅ | ❌ | Missing JSON-LD Entity Graph, Missing FAQPage Schema |
+| Show HN: Claude wrote the 115 nonzero weights of a maze-solving net, no training | https://cellular-wsp-maze.onrender.com | `arashmh` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
+| Show HN: Nullify 68M, local PII detection trained on a MacBook Air | https://huggingface.co | `srb-85` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
+| Show HN: I spent 10 years traveling and built a travel blog out of the data | https://steve.ly | `stevelacey` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 | Show HN: Evalkit for Improving Your Agents | https://evalkit.inferedge.com | `adityamehta1990` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Truce – a neutral mediator AI agents can call when they disagree | https://trucehq.com | `frankholle` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: Check where your GitHub profile ranks | https://git-star-ranking.com | `pengly` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: 44% chance of a catastrophe that kills over 10% of humanity by 2100 | https://doomanalysis.com | `couAUIA` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Draftmux – Polish the text your coding agent writes before it goes out | https://draftmux.raine.dev | `rane` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: A tool to animate old photos with subtle motion | https://animateoldphotosai.com | `jackking2060` | **100/100** | ✅ | ✅ | Passed |
-| Show HN: HobbyLM-Embed, a from-scratch embedding model that runs locally | https://huggingface.co | `prajhan1` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: AstraviX Studio – Local-first modular workspace and canvas in IndexedDB | https://studio.astravix.xyz | `aayan786236` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: GymType, five-minute Python drills to stay sharp | https://gymtype.dev | `elisharobinson` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: Edvo – Free MDCAT prep for Pakistani med school applicants, no signup | https://edvo.io | `ahgamerz215` | **65/100** | ❌ | ✅ | Missing /llms.txt |
 
 ---
 ## 🛠️ Instant Fix Pack for Founders

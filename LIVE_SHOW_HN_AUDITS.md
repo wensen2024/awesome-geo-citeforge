@@ -5,6 +5,7 @@
 
 | Startup / Launch Title | Domain | Founder (HN) | GEO Score | /llms.txt | JSON-LD | Missing AI Search Signals |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Show HN: Toad in the hole - Grokbot for Voice | https://toadinthehole.app | `tn_` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Sleigh Draw – an animated Secret Santa draw, no sign-up, no peeking | https://sleighdraw.com | `mhosseini` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 | Show HN: PortalGate – Zero-leakage client portals for monday.com | https://portalgate-landing.vercel.app | `kannsky` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
 | Show HN: Sidelong – read-it-later and highlighting for every type of content | https://sidelong.app | `bodhigephardt` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
@@ -14,13 +15,7 @@
 | Show HN: Anvil has won pricing among AI web builders plan starting at $5 | https://www.tryanvil.dev | `Alumu` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: Data center, power, land, fiber and capacity | https://dchub.cloud | `dchub` | **85/100** | ✅ | ✅ | Missing FAQPage Schema |
 | Show HN: Codeword | https://dawnofthe.dad | `userundefined` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: Anniversary Calculator | https://www.yourdatingassistant.com | `SuperCute` | **100/100** | ✅ | ✅ | Passed |
 
 ---
 ## 🛠️ Instant Fix Pack for Founders
 Run your domain at **[https://www.wensen.space/](https://www.wensen.space/)** to generate ready-to-paste `llms.txt`, `JSON-LD`, and an AI-optimized rewrite in 60 seconds.
-
-## 🔥 Live Interactive CiteForge Audit Reports (Click to View & Unlock Full Fix Pack)
-
-- **https://sidelong.app** (Founder `bodhigephardt` on [Show HN](https://news.ycombinator.com/item?id=50649180)) 👉 **[View Live Interactive Report & Fix Pack (https://www.wensen.space/r/rp_xbWf32fX9C_e)](https://www.wensen.space/r/rp_xbWf32fX9C_e)**
-- **https://dchub.cloud** (Founder `dchub` | Email: `info@dchub.cloud` | X: `@dchubcloud`) 👉 **[View Live Interactive Report & Fix Pack (https://www.wensen.space/r/rp_IOPtSHD1jcJq)](https://www.wensen.space/r/rp_IOPtSHD1jcJq)**

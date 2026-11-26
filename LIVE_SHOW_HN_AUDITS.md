@@ -19,3 +19,7 @@
 ---
 ## 🛠️ Instant Fix Pack for Founders
 Run your domain at **[https://www.wensen.space/](https://www.wensen.space/)** to generate ready-to-paste `llms.txt`, `JSON-LD`, and an AI-optimized rewrite in 60 seconds.
+
+## 🔥 Live Interactive CiteForge Audit Reports (Click to View & Unlock Full Fix Pack)
+
+- **https://sidelong.app** (Founder `bodhigephardt` on [Show HN](https://news.ycombinator.com/item?id=50649180)) 👉 **[View Live Interactive Report & Fix Pack (https://www.wensen.space/r/rp_xbWf32fX9C_e)](https://www.wensen.space/r/rp_xbWf32fX9C_e)**

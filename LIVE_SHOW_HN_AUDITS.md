@@ -5,6 +5,7 @@
 
 | Startup / Launch Title | Domain | Founder (HN) | GEO Score | /llms.txt | JSON-LD | Missing AI Search Signals |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Show HN: A tool to animate old photos with subtle motion | https://animateoldphotosai.com | `jackking2060` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: HobbyLM-Embed, a from-scratch embedding model that runs locally | https://huggingface.co | `prajhan1` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: AstraviX Studio – Local-first modular workspace and canvas in IndexedDB | https://studio.astravix.xyz | `aayan786236` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: GymType, five-minute Python drills to stay sharp | https://gymtype.dev | `elisharobinson` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
@@ -14,7 +15,6 @@
 | Show HN: Anthropic and OpenAI Math Tracker | https://bedolpab.github.io | `bedolpablo` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: HookArmor – Self-hosted webhook queue that defeats 300s replay expiry | https://hookarmour.dev | `pkdoddamani` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 | Show HN: An insanely cool-looking app on iPhone Duo | https://apps.apple.com | `lucakk` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: Fattura – Parse credit card PDF statements and split family bills | https://www.usefattura.com.br | `jonathasgouv` | **65/100** | ❌ | ✅ | Missing /llms.txt |
 
 ---
 ## 🛠️ Instant Fix Pack for Founders

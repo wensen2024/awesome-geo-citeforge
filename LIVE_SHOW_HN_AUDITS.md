@@ -5,8 +5,9 @@
 
 | Startup / Launch Title | Domain | Founder (HN) | GEO Score | /llms.txt | JSON-LD | Missing AI Search Signals |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Show HN: Truce – a neutral mediator AI agents can call when they disagree | https://trucehq.com | `frankholle` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: Check where your GitHub profile ranks | https://git-star-ranking.com | `pengly` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: Si Won't Save Us | https://doomanalysis.com | `couAUIA` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
+| Show HN: 44% chance of a catastrophe that kills over 10% of humanity by 2100 | https://doomanalysis.com | `couAUIA` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Draftmux – Polish the text your coding agent writes before it goes out | https://draftmux.raine.dev | `rane` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: A tool to animate old photos with subtle motion | https://animateoldphotosai.com | `jackking2060` | **100/100** | ✅ | ✅ | Passed |
 | Show HN: HobbyLM-Embed, a from-scratch embedding model that runs locally | https://huggingface.co | `prajhan1` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
@@ -14,7 +15,6 @@
 | Show HN: GymType, five-minute Python drills to stay sharp | https://gymtype.dev | `elisharobinson` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: Edvo – Free MDCAT prep for Pakistani med school applicants, no signup | https://edvo.io | `ahgamerz215` | **25/100** | ❌ | ❌ | Missing /llms.txt, Missing JSON-LD Entity Graph, Missing FAQPage Schema |
 | Show HN: WebLidar, every website you run, graded | https://weblidar.com | `salvadormrf` | **60/100** | ✅ | ❌ | Missing JSON-LD Entity Graph, Missing FAQPage Schema |
-| Show HN: willFlock : find a time for a group across time zones, no sign-up | https://willflock.com | `tealvibe` | **50/100** | ❌ | ✅ | Missing /llms.txt, Missing FAQPage Schema |
 
 ---
 ## 🛠️ Instant Fix Pack for Founders
